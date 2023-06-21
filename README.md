@@ -1,6 +1,6 @@
 # burgers
 
-Intensive Web Developer Course (ITLogia) 
+Intensive Web Development Course (ITLogia) 
 
 - HTML;
 - CSS;
